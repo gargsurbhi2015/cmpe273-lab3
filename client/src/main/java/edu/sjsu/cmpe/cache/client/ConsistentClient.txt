@@ -1,7 +1,5 @@
 package edu.sjsu.cmpe.cache.client;
 
-import edu.sjsu.cmpe.cache.client.consistenthash.ConsistentHashImpl;
-
 import java.util.ArrayList;
 
 public class ConsistentClient {
